@@ -1,0 +1,10 @@
+{
+  „ rozszerza ” : [ 
+    „ htmlvalidate: zalecane ”
+  ] ,
+ 
+  „ zasady ” : { 
+    „ close-order ” : „ error ” 
+    „ void ” : [ „ warn ” , { „ style ” : „ omit ” } ]   
+  }
+}
